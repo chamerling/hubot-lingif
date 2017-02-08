@@ -1,6 +1,6 @@
 {
   "name": "hubot-lingif",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hubot plugin which replies to lingif command with special Linagorians GIFs",
   "author": "Christophe Hamerling <chamerling@linagora.com>",
   "homepage": "http://github.com/chamerling/hubot-lingif",
