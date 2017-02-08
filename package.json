@@ -1,0 +1,41 @@
+{
+  "name": "hubot-lingif",
+  "version": "0.0.0",
+  "description": "Hubot plugin which replies to lingif command with special Linagorians GIFs",
+  "author": "Christophe Hamerling <chamerling@linagora.com>",
+  "homepage": "http://github.com/chamerling/hubot-lingif",
+  "keywords": [
+    "node",
+    "hubot",
+    "linagora",
+    "gif"
+  ],
+  "maintainers": [
+    {
+      "name": "Christophe Hamerling",
+      "email": "chamerling@linagora.com"
+    }
+  ],
+  "contributors": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/chamerling/hubot-lingif/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/hubot-lingif.git"
+  },
+  "engines": {
+    "node": ">6.5.x",
+    "npm": ">1.0.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
