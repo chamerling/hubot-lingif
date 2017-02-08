@@ -24,11 +24,11 @@ bin/hubot
 ## Usage
 
 ```
-hubot> hubot lingif kader
-hubot> http://i.giphy.com/QHKMjJN1sG2sw.gif
+hubot> hubot lingif luc
+hubot> http://i.giphy.com/26xBSVNCBZtXCOGOc.gif
 ```
 
-![Kader](http://i.giphy.com/QHKMjJN1sG2sw.gif "Kader")
+![luc](http://i.giphy.com/26xBSVNCBZtXCOGOc.gif)
 
 ## Add you GIF
 
