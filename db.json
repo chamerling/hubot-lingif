@@ -2,7 +2,9 @@
   "andrea,abuisset,buisset,abu,ambreb": [
     "http://i.giphy.com/26xBMIkjIbBrwgtzO.gif"
   ],
-  "christophe,chamerling,hamerling,cha": ["http://i.giphy.com/26xBOP3ddkaXEIqys.gif"],
+  "christophe,chamerling,hamerling,cha": [
+    "http://i.giphy.com/26xBOP3ddkaXEIqys.gif"
+  ],
   "luc,lduzan,duzan,ldu": [
     "http://i.giphy.com/l0Exx6OiGPBPtckIU.gif",
     "http://i.giphy.com/26xBSVNCBZtXCOGOc.gif",
@@ -13,5 +15,21 @@
   ],
   "thomas,tbille,bille,tbi": [
     "http://i.giphy.com/26xBRz9O7sVw08Z4k.gif"
+  ],
+  "dali,madridi": [
+    "http://i.giphy.com/26gsrrHFPFrfECCju.gif",
+    "http://i.giphy.com/26gseF2lk1scJLZYI.gif"
+  ],
+  "degage,touchepas,status": [
+    "http://i.giphy.com/26gsqe03IX7NJ1RWU.gif"
+  ],
+  "firas,fyangui,weldfamiliya": [
+    "http://i.giphy.com/d1E2D8cm2JvIo1ri.gif",
+    "http://i.giphy.com/l0ExdwpF1TWUrhKpi.gif",
+    "http://i.giphy.com/l0ExckKt21omzBI2c.gif"
+  ],
+  "arouis,aymen,timide": [
+    "http://i.giphy.com/26gs9Pto4rk7qEXJK.gif",
+    "http://i.giphy.com/26gsh2UdcGkEIQ8UM.gif"
   ]
 }
