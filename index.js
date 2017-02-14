@@ -1,6 +1,7 @@
 const _ = require('lodash');
 const fs = require('fs');
 const DB_URL = 'https://raw.githubusercontent.com/chamerling/hubot-lingif/master/db.json';
+const DEFAULT_GIF = 'http://i.giphy.com/QHKMjJN1sG2sw.gif';
 
 module.exports = (robot) => {
 
@@ -13,7 +14,10 @@ module.exports = (robot) => {
         robot.logger.debug(`gif result to ${msg.match[1]} is ${gif}`);
         msg.send(gif);
       })
-      .catch(err => robot.logger.error(err));
+      .catch(err => {
+        robot.logger.debug(err)
+        msg.send(`:kader: is always here for you, even when bot fails ${DEFAULT_GIF}`);
+      });
   }
 
   function get(text) {
