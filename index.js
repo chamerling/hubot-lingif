@@ -4,6 +4,7 @@ const DB_URL = 'https://raw.githubusercontent.com/chamerling/hubot-lingif/master
 
 module.exports = (robot) => {
 
+  robot.hear(/lingif (.*)$/i, getGif);
   robot.respond(/lingif (.*)$/i, getGif);
 
   function getGif(msg) {
