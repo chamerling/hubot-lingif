@@ -1,6 +1,6 @@
 # hubot-lingif
 
-A [Hubot](http://hubot.github.com) script listening to lingif commands and sends back a Linagorian GIF.
+A [Hubot](http://hubot.github.com) script listening to lingif commands and sends back a @linagora related GIF.
 
 ## Install
 
@@ -9,6 +9,7 @@ A [Hubot](http://hubot.github.com) script listening to lingif commands and sends
 ```
 npm install hubot-lingif --save
 ```
+
 - Add the following code in your external-scripts.json file.
 
 ```
@@ -23,6 +24,8 @@ bin/hubot
 
 ## Usage
 
+Hubot can now hear, respond to messages:
+
 ```
 hubot> hubot lingif luc
 hubot> http://i.giphy.com/26xBSVNCBZtXCOGOc.gif
@@ -30,9 +33,17 @@ hubot> http://i.giphy.com/26xBSVNCBZtXCOGOc.gif
 
 ![luc](http://i.giphy.com/26xBSVNCBZtXCOGOc.gif)
 
+```
+hubot> lingif chamerling
+hubot> http://i.giphy.com/26xBOP3ddkaXEIqys.gif
+```
+
+![chamerling](http://i.giphy.com/26xBOP3ddkaXEIqys.gif)
+
+
 ## Add you GIF
 
-Update the db.json file by adding your GIF(s) and send a PR. The format is like:
+Update the db.json file by adding your GIF(s) and send a PR. Use CSV to define the keys Hubot can reply to. The format is like:
 
 ```
 "firstname,lastname,fullname,login,trigram,whatever": ["http://your.gif"]
