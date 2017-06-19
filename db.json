@@ -8,7 +8,8 @@
   "luc,lduzan,duzan,ldu": [
     "http://i.giphy.com/l0Exx6OiGPBPtckIU.gif",
     "http://i.giphy.com/26xBSVNCBZtXCOGOc.gif",
-    "http://i.giphy.com/3o6ZsV89eOaJ2gcPn2.gif"
+    "http://i.giphy.com/3o6ZsV89eOaJ2gcPn2.gif",
+    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif"
   ],
   "kader,abenchi,benchi,abe": [
     "http://i.giphy.com/QHKMjJN1sG2sw.gif"
@@ -48,8 +49,9 @@
   "benoit, btellier": [
     "http://i.giphy.com/E3L9DxqlLooBq.gif"
   ],
-  "mfr, mfrere, SurionA": [
-    "https://media.giphy.com/media/3oKIPuKpq9nebUiDo4/giphy.gif"
+  "mfr, maxime, mfrere, SurionA": [
+    "https://media.giphy.com/media/3oKIPuKpq9nebUiDo4/giphy.gif",
+    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif"
   ],
   "mib, mbailly, bailly, michael": [
     "https://media.giphy.com/media/l0IygY3yxYtLJbiVi/giphy.gif",
@@ -61,6 +63,7 @@
   ],
   "fail, failed": [
     "https://media.giphy.com/media/3ohzdLyTOQ1nv36hCE/giphy.gif",
-    "https://media.giphy.com/media/l0IygY3yxYtLJbiVi/giphy.gif"
+    "https://media.giphy.com/media/l0IygY3yxYtLJbiVi/giphy.gif",
+    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif"
   ]
 }
