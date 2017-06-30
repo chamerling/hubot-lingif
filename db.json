@@ -85,7 +85,8 @@
   "fail, failed": [
     "https://media.giphy.com/media/3ohzdLyTOQ1nv36hCE/giphy.gif",
     "https://media.giphy.com/media/l0IygY3yxYtLJbiVi/giphy.gif",
-    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif"
+    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif",
+    "https://media.giphy.com/media/l4FGnDyM0Gd102bbq/giphy.gif"
   ],
   "yolo": [
     "https://media3.giphy.com/media/LMaFqmcj8mC88/giphy.gif",
@@ -102,5 +103,8 @@
     "https://media.giphy.com/media/3oKIPgzSzAwVsFFbUY/giphy.gif",
     "https://media.giphy.com/media/3oKIPt7535zpCwmIRG/giphy.gif",
     "https://media.giphy.com/media/3oKIPhDy1RbBpfbBde/giphy.gif"
+  ],
+  "debug": [
+    "https://media.giphy.com/media/3oKIPAHQu48MssdMGY/giphy.gif"
   ]
 }
