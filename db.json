@@ -10,13 +10,19 @@
     "http://i.giphy.com/l0Exx6OiGPBPtckIU.gif",
     "http://i.giphy.com/26xBSVNCBZtXCOGOc.gif",
     "http://i.giphy.com/3o6ZsV89eOaJ2gcPn2.gif",
-    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif"
+    "https://media.giphy.com/media/3oKIPp2JtWG6W97J72/giphy.gif",
+    "https://media.giphy.com/media/d48u7N8SwJtJqb4Y/giphy.gif",
+    "https://media.giphy.com/media/3oKIPc5XietVwPhGow/giphy.gif",
+    "https://media.giphy.com/media/3oKIPq8ANpotQin5fy/giphy.gif",
+    "https://media.giphy.com/media/3oKIPtyHB072dn8usM/giphy.gif"
   ],
   "kader,abenchi,benchi,abe": [
     "http://i.giphy.com/QHKMjJN1sG2sw.gif"
   ],
   "thomas,tbille,bille,tbi,toto": [
-    "http://i.giphy.com/26xBRz9O7sVw08Z4k.gif"
+    "http://i.giphy.com/26xBRz9O7sVw08Z4k.gif",
+    "https://media.giphy.com/media/3oKIPDYJ9vBtKQj3dC/giphy.gif",
+    "https://media.giphy.com/media/26FmQicMhfKrlnZ3q/giphy.gif"
   ],
   "dali,madridi": [
     "http://i.giphy.com/26gsrrHFPFrfECCju.gif",
@@ -86,5 +92,12 @@
   ],
   "fu, fuck": [
     "https://media.giphy.com/media/3oEjI2JdQPkmLxMcrm/giphy.gif"
+  ],
+  "toulouse": [
+    "https://media.giphy.com/media/l4FGGoY9GzXHVyt0I/giphy.gif",
+    "https://media.giphy.com/media/l4FGChxOcBBnADaNi/giphy.gif",
+    "https://media.giphy.com/media/3oKIPgzSzAwVsFFbUY/giphy.gif",
+    "https://media.giphy.com/media/3oKIPt7535zpCwmIRG/giphy.gif",
+    "https://media.giphy.com/media/3oKIPhDy1RbBpfbBde/giphy.gif"
   ]
 }
