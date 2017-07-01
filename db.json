@@ -17,7 +17,8 @@
   ],
   "kader,abenchi,benchi,abe": [
     "http://i.giphy.com/QHKMjJN1sG2sw.gif",
-    "https://media.giphy.com/media/l0ExnEX5oYIVbag6c/giphy.gif"
+    "https://media.giphy.com/media/l0ExnEX5oYIVbag6c/giphy.gif",
+    "https://media.giphy.com/media/l0ExiwnDQNcJDStc4/giphy.gif"
   ],
   "thomas,tbille,bille,tbi,toto": [
     "http://i.giphy.com/26xBRz9O7sVw08Z4k.gif",
@@ -105,5 +106,8 @@
   ],
   "debug": [
     "https://media.giphy.com/media/3oKIPAHQu48MssdMGY/giphy.gif"
+  ],
+  "hack": [
+    "https://media.giphy.com/media/xUOrvURQpuyx5jGnFS/giphy.gif"
   ]
 }
